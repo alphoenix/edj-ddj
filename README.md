@@ -21,7 +21,7 @@ Le journalisme s'appuie depuis longtemps sur les données mais la numérisation 
 
 #### À faire
 
-Pour le 30 mars, identifier une enquête de data-journalisme et en faire une critique détaillée.
+Pour le *30 mars*, identifier une enquête de data-journalisme et en faire une critique détaillée.
 
 ### Jour #2
 
