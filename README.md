@@ -8,6 +8,8 @@ Les étudiants de M1 sont confrontés dès leur première année aux statistique
 
 ### Jour #1
 
+[Lien vers la présentation](https://docs.google.com/presentation/d/1howbkquEKe2EkijXdKUjlTff2A3AlNjfpo5rvxkgT6c/edit?usp=sharing)
+
 Le journalisme s'appuie depuis longtemps sur les données mais la numérisation croissante et l'amélioration de l'informatique permet d'en faire beaucoup plus. Découverte des différents formats de données, des tableurs et des logiciels et principes à connaître.
 
 1. Moi
@@ -21,7 +23,7 @@ Le journalisme s'appuie depuis longtemps sur les données mais la numérisation 
 
 #### À faire
 
-Pour le *30 mars*, identifier une enquête de data-journalisme et en faire une critique détaillée.
+Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une critique détaillée.
 
 ### Jour #2
 
