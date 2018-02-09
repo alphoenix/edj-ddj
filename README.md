@@ -29,6 +29,8 @@ Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une
 
 ### Jour #2
 
+[Lien vers la présentation](https://docs.google.com/presentation/d/1pOMEOnPR89pLqWAQWqUeIfOmvZmaFfrTascJsWe2OZw/edit#slide=id.p)
+
 Les données sont accessibles partout, parfois facilement (open-data), parfois avec un peu de travail (CADA notamment). La statistique et la compréhension des nombres sont des corollaires du travail avec les données.
 
 1. Où trouver des données
