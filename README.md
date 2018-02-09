@@ -32,8 +32,8 @@ Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une
 Les données sont accessibles partout, parfois facilement (open-data), parfois avec un peu de travail (CADA notamment). La statistique et la compréhension des nombres sont des corollaires du travail avec les données.
 
 1. Où trouver des données
-1.1. L'open-data et les données ouvertes
-1.2. La CADA et l'accès aux fichiers administratifs
+	1. L'open-data et les données ouvertes
+	2. La CADA et l'accès aux fichiers administratifs
 2. Rappels statistiques
 3. Bases du tableur
 
