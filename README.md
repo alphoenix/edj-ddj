@@ -4,6 +4,8 @@
 
 Les étudiants de M1 sont confrontés dès leur première année aux statistiques et à l’utilisation des chiffres en vue de trouver une information et raconter une histoire. C’est un atelier crucial pour des étudiants ayant souvent effectué des études littéraires et parfois démunis en la matière. En jonglant avec les spécificités des tableurs, en maniant les formules et autres fonctions avec fluidité, ils creusent, vérifient, contextualisent, et rendent visuelles des informations jusque là éparses afin de réaliser des projets de journalisme de données.
 
+Lien vers cette page : [http://bit.ly/ddj-edj](http://bit.ly/ddj-edj)
+
 ## Programme
 
 ### Jour #1
@@ -28,6 +30,16 @@ Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une
 ### Jour #2
 
 Les données sont accessibles partout, parfois facilement (open-data), parfois avec un peu de travail (CADA notamment). La statistique et la compréhension des nombres sont des corollaires du travail avec les données.
+
+1. Où trouver des données
+1.1. L'open-data et les données ouvertes
+1.2. La CADA et l'accès aux fichiers administratifs
+2. Rappels statistiques
+3. Bases du tableur
+
+#### À lire pour la semaine prochaine
+
+* [Data-driven journalism and the public good: "Computer assisted-reporters" and "programmer-journalists" in Chicago](https://pdfs.semanticscholar.org/c3ee/e63d4448c4994837a994faf92c0f878e0369.pdf)
 
 ### Jour #3
 
