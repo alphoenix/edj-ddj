@@ -31,7 +31,7 @@ Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une
 
 [Lien vers la présentation](https://docs.google.com/presentation/d/1pOMEOnPR89pLqWAQWqUeIfOmvZmaFfrTascJsWe2OZw/edit#slide=id.p)
 
-[Lien vers les données](./)
+[Lien vers les données](./Jour%202)
 
 Les données sont accessibles partout, parfois facilement (open-data), parfois avec un peu de travail (CADA notamment). La statistique et la compréhension des nombres sont des corollaires du travail avec les données.
 
@@ -53,7 +53,7 @@ Travail statistiques sur les données de la délinquance en France et dans deux 
 
 [Lien vers la présentation](https://docs.google.com/presentation/d/1cBKnUDH95O6SHNc1DEAQ8extTk9Lf8gfGx4DbPkCIWs/edit?usp=sharing)
 
-[Lien vers les données](./)
+[Lien vers les données](./Jour%203)
 
 Le tableau croisé dynamique est l'outil magique pour tout journaliste travaillant avec les données. Il permettra de faire des premières visualisations pour donner un sens aux données.
 
