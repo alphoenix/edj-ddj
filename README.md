@@ -72,9 +72,14 @@ Tableaux croisés dynamiques et visualisations simple sur la réserve parlementa
 
 ### Jour #4
 
-Les données sont accessibles en ligne, mais pas forcément avec un petit bouton «Télécharger». Certains outils ou manipulations existent pour les télécharger, et ensuite les nettoyer et les rendre exploitables.
+[Lien vers la présentation](https://docs.google.com/presentation/d/1dLgLCDw_nBj6nVyDM4KncVgmDvaXqEyj8MPOYBZO0ck/edit?usp=sharing)
+
+Les données qui sont accessibles en ligne ne sont pas toujours très bien rangées. Il existe des outils pour les nettoyer, améliorer, standardiser.
+
 
 ### Jour #5
+
+Les données sont accessibles en ligne, mais pas forcément avec un petit bouton «Télécharger». Certains outils ou manipulations existent pour les télécharger, et ensuite les nettoyer et les rendre exploitables.
 
 Parfois, les données qu'on cherche n'existent pas, il faut alors construire sa propre base de données. Cela ne se fait pas sans préparation.
 
