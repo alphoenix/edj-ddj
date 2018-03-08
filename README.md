@@ -74,20 +74,26 @@ Tableaux croisés dynamiques et visualisations simple sur la réserve parlementa
 
 [Lien vers la présentation](https://docs.google.com/presentation/d/1dLgLCDw_nBj6nVyDM4KncVgmDvaXqEyj8MPOYBZO0ck/edit?usp=sharing)
 
-Les données qui sont accessibles en ligne ne sont pas toujours très bien rangées. Il existe des outils pour les nettoyer, améliorer, standardiser.
+Les données qui sont accessibles en ligne ne sont pas toujours très bien rangées. Il existe des outils pour les nettoyer, améliorer, standardiser, comme Open Refine, par exemple. 
 
 
 ### Jour #5
 
+[Lien vers la présentation](https://docs.google.com/presentation/d/1GDzHP2luI3SzmEtmJ43GTGVNvqjSHhrBjtJtXwR3O3M/edit?usp=sharing)
+
 Les données sont accessibles en ligne, mais pas forcément avec un petit bouton «Télécharger». Certains outils ou manipulations existent pour les télécharger, et ensuite les nettoyer et les rendre exploitables.
 
-Parfois, les données qu'on cherche n'existent pas, il faut alors construire sa propre base de données. Cela ne se fait pas sans préparation.
+1. Importer avec Google Sheets
+2. Import plus ambitieux
+
 
 ### Jour #6
 
-Une fois les données récupérées et nettoyées et qu'un angle a été trouvé, vient le temps de faire des visualisations plus ambitieuses et à destination des lecteurs.
+Parfois, les données qu'on cherche n'existent pas, il faut alors construire sa propre base de données. Cela ne se fait pas sans préparation.
 
 ### Jour #7
+
+Une fois les données récupérées et nettoyées et qu'un angle a été trouvé, vient le temps de faire des visualisations plus ambitieuses et à destination des lecteurs.
 
 ### Jour #8
 
