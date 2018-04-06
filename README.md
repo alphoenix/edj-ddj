@@ -107,6 +107,10 @@ Présentation de travaux de data-journalisme
 
 ### Jour #9
 
+[Lien vers la présentation](https://docs.google.com/presentation/d/1WfBYBhHiPaV_ZFREX4K5WuLYfYYmDf8AiN-r0WW0Lf4/edit?usp=sharing)
+
+Mener un projet de data-journalisme demande un peu d'organisation. 
+
 ### Jour #10
 
 ### Jour #11
