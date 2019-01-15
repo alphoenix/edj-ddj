@@ -25,7 +25,7 @@ Le journalisme s'appuie depuis longtemps sur les données mais la numérisation 
 
 #### À faire
 
-Pour le **30 mars**, identifier une enquête de data-journalisme et en faire une critique détaillée.
+Pour le **1<sup>er</sup> avril**, identifier une enquête de data-journalisme et en faire une critique détaillée.
 
 ### Jour #2
 
@@ -84,34 +84,34 @@ Les données qui sont accessibles en ligne ne sont pas toujours très bien rang�
 Les données sont accessibles en ligne, mais pas forcément avec un petit bouton «Télécharger». Certains outils ou manipulations existent pour les télécharger, et ensuite les nettoyer et les rendre exploitables.
 
 1. Importer avec Google Sheets
+2. Scraper avec data-miner.io
 
 ### Jour #6
 
-[Lien vers la présentation](https://docs.google.com/presentation/d/1GDzHP2luI3SzmEtmJ43GTGVNvqjSHhrBjtJtXwR3O3M/edit?usp=sharing)
+[Lien vers la présentation](https://docs.google.com/presentation/d/1KxWdLALeCJnAySzuT6eU1fFiA5vqHYNS0YMovP2qBPQ/edit)
 
-Les données sont accessibles en ligne, mais pas forcément avec un petit bouton «Télécharger». Certains outils ou manipulations existent pour les télécharger, et ensuite les nettoyer et les rendre exploitables.
-
-1. Scraper avec data-miner.io
+Parfois, les données qu'on recherche n'existent pas, il faut alors construire sa propre base de données. Cela ne se fait pas sans préparation.
 
 ### Jour #7
 
 [Lien vers la présentation](https://docs.google.com/presentation/d/1fvE-XFDvjJwCW0Gtj-kxQQtqjqaQbI3HXkDt6x7YUBU/edit?usp=sharing)
 
-Parfois, les données qu'on recherche n'existent pas, il faut alors construire sa propre base de données. Cela ne se fait pas sans préparation.
-
 Une fois les données récupérées et nettoyées et qu'un angle a été trouvé, vient le temps de faire des visualisations plus ambitieuses et à destination des lecteurs.
 
 ### Jour #8
 
-Présentation de travaux de data-journalisme
+Premier bilan et retour sur les points problématiques.
 
 ### Jour #9
+
+Présentation de travaux de data-journalisme
+
+### Jour #10
 
 [Lien vers la présentation](https://docs.google.com/presentation/d/1WfBYBhHiPaV_ZFREX4K5WuLYfYYmDf8AiN-r0WW0Lf4/edit?usp=sharing)
 
 Mener un projet de data-journalisme demande un peu d'organisation. 
 
-### Jour #10
 
 ### Jour #11
 
