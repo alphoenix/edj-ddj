@@ -43,7 +43,7 @@ Les données sont accessibles partout, parfois facilement (open-data), parfois a
 
 #### Exercice
 
-Travail statistiques sur les données de la délinquance en France et dans deux départements.
+Travail statistique sur les données de la délinquance en France et à Paris et dans le Nord.
 
 #### À lire pour la semaine prochaine
 
